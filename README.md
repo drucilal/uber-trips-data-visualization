@@ -36,5 +36,6 @@ Observations
 
 Next Steps: 
  Looking into the Month of September and performing a spatial visualization and  cluster analysis. 
+ 
  Inspired by: https://www.kaggle.com/lambertosu/exploratory-analysis-with-density-based-clustering
 
