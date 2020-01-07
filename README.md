@@ -30,8 +30,11 @@ https://github.com/fivethirtyeight/uber-tlc-foil-response
 Observations
 --
 1: The number of trips increase during the 5 and 6 pm each day during the month of April. 
+
 2: The highest number of trips were taken in September (~ 1,000,000) with the highest pickups occuring on Tuesdays.
+
 3: In regards to the five bases in New York City, Base 02617 had the highest number of trips.
+
 4: Looking into the same base (B012617), its highest number of trips occured in September.
 
 Next Steps: 
