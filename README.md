@@ -45,18 +45,25 @@ Observations
 
 4: Looking into the same base (B012617), its highest number of trips occured in September.
 
-Next Steps: 
+Desity Based Clustering
+---
 
 Dig deeper into the month with the highest number of trips (September) and visualize the area that had at least 25 or more trips. 
- ----
+----
+Inspired by: https://www.kaggle.com/lambertosu/exploratory-analysis-with-density-based-clustering
  
- Inspired by: https://www.kaggle.com/lambertosu/exploratory-analysis-with-density-based-clustering
- 
- Procedure
+ Procedure and Findings
  --
  - Data Set: September 2014 Uber Trips Dataset
  - Explanatory Data Analysis on the hourly averages of trips on each weekday
- - Spaitial Visualization: 
+ - Saturday had the highest number of trips. 
+ - Visualized the locations of the hot spots for uber drivers on a Saturday.
+ - Visualized the average pick up rate vs hour of the day.
+ - Findings: Increase in trips on Friday and Saturday evening and night.
+ - Findings: Variation in afternoon through evening hours( 1-7 pm) September 6 and 13th.
+ - September 13 contained the largest cluster (59) of locations. 
+ - Day: September 13, 2014, Hours: 3 pm to midnight Using this map, we visualized 59 locations which had at least 25 pickups. ( map displayed in html link above)
+ - Recommendation for Uber Drivers: Hot Spots to obtain more pick ups.
  
  
  
