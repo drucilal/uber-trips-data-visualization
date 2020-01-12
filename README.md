@@ -42,7 +42,18 @@ Observations
 4: Looking into the same base (B012617), its highest number of trips occured in September.
 
 Next Steps: 
- Looking into the Month of September and performing a spatial visualization and  cluster analysis. 
+
+Dig deeper into the month with the highest number of trips (September) and visualize the area that had at least 25 or more trips. 
+ ----
  
  Inspired by: https://www.kaggle.com/lambertosu/exploratory-analysis-with-density-based-clustering
+ 
+ Procedure
+ --
+ - Data Set: September 2014 Uber Trips Dataset
+ - Explanatory Data Analysis on the hourly averages of trips on each weekday
+ - Spaitial Visualization: 
+ 
+ 
+ 
 
