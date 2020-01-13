@@ -5,8 +5,7 @@ R Markdown File:
 http://rpubs.com/drucilal/564248
 
 Density Based Clustering: Visualize the areas in New York that had at least 25 or more trips.
--- 
-file:///Users/drucila/Desktop/uber_git/uber-trips-data-visualization/UberDensityBasedClusteringAnalysis.html
+--
 
 Objective: 
 --
